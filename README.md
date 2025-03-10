@@ -46,8 +46,8 @@ This project focuses on **predicting diabetes and analyzing hospital readmission
 ## 📌 How to Run the Project
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/diabetes-analysis.git
-   cd diabetes-analysis
+   git clone https://github.com/Deepakjd-dev/HealthCare.git
+   cd HealthCare
    ```
 2. **Install dependencies**
    ```bash
@@ -55,7 +55,7 @@ This project focuses on **predicting diabetes and analyzing hospital readmission
    ```
 3. **Run the Python script**
    ```bash
-   python diabetes_prediction.py
+   python HealthCare.py
    ```
 
 ## 🚀 Future Enhancements
@@ -64,7 +64,7 @@ This project focuses on **predicting diabetes and analyzing hospital readmission
 🔹 Deploy as a **Web App** for real-time patient risk assessment  
 
 ## 🏆 Contributors
-👨‍💻 **Your Name** – [GitHub Profile](https://github.com/your-username)
+👨‍💻 **Your Name** – [GitHub Profile](https://github.com/Deepakjd-dev)
 
 ## 📜 License
 This project is licensed under the **MIT License**. Feel free to use and modify!
